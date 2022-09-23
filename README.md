@@ -8,4 +8,5 @@
 3. `npm install`
 
 開發指令：npm run start
+
 打包指令：npm run build
