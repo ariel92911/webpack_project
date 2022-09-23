@@ -7,6 +7,5 @@
 2. `cd webpack_project`
 3. `npm install`
 
-開發中想看運行結果請下指令：npm run start
-
-要打包請下指令：npm run build
+開發指令：npm run start
+打包指令：npm run build
